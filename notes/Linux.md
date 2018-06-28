@@ -129,6 +129,8 @@ info 与 man 类似，但是 info 将文档分成一个个页面，每个页面�
 ```html
 /usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/dmtsai/.local/bin:/home/dmtsai/bin
 ```
+### 查看当前环境变量的内容
+
 
 ## sudo
 
