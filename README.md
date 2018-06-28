@@ -23,11 +23,11 @@
 
 ## 操作系统 :computer:
 
-> [计算机操作系统](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/计算机操作系统.md)
+> [计算机操作系统](https://github.com/duyong6380/InnterviewNotes/blob/master/notes/计算机操作系统.md)
 
 整理自《现代操作系统》和《计算机操作系统》
 
-> [Linux](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Linux.md)
+> [Linux](https://github.com/duyong6380/InnterviewNotes/blob/master/notes/Linux.md)
 
 整理自《鸟哥的 Linux 私房菜》
 
